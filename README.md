@@ -16,9 +16,10 @@ In particolare si vogliono individuare informazioni sui servizi nelle vicinanze 
 
 ## Schemi di Progettazione
 
+### Progettazione Concettuale
+
 ![](doc/Progetto_Concettuale.png)
 
-
-
+### Progettazione Logica
 
 ![](doc/Progetto_Logica.png)
