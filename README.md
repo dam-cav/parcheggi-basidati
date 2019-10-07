@@ -1,4 +1,4 @@
-# Progetto Tecnologie Web, "Parcheggi"
+# Progetto Basi di Dati, "Parcheggi"
 
 Progetto per il corso di Basi di Dati per la laurea triennale in Informatica presso [Università degli Studi di Padova](https://www.unipd.it/), inverno 2017.
 
