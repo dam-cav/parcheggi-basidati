@@ -10,6 +10,11 @@ In particolare si vogliono individuare informazioni sui servizi nelle vicinanze 
 
 (*Il codice di riempimento del database con valori di esempio è stato omesso dal repository in quanto conteneva nomi e indirizzi di vere attività della città di Padova*.)
 
+## Contributori
+
+- [dam-cav](https://github.com/dam-cav)
+- [ffiora](https://github.com/ffioraa)
+
 ## Struttura Database
 
 ![](doc/schema.png)
