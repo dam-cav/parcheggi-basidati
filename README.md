@@ -6,7 +6,7 @@ Il progetto consiste in un database pensato per stare alla base di un sito o un�
 In particolare si vogliono individuare informazioni sui servizi nelle vicinanze di una destinazione scelta.
 
 -	Nella cartella *db* è presente il codice per la generazione del database, delle funzioni e dei trigger necessari e un file con delle query di esempio per mostrare le potenzialità del database.
--	Nella cartella *doc* è presente la [relazione completa](doc/relazione.pdf).
+-	Nella cartella *doc* è presente la [relazione completa](doc/Relazione.pdf).
 
 (*Il codice di riempimento del database con valori di esempio è stato omesso dal repository in quanto conteneva nomi e indirizzi di vere attività della città di Padova*.)
 
